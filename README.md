@@ -15,9 +15,9 @@ The `BPE.ipynb` notebook includes the following sections:
 3. **Applying BPE**: Using the trained BPE model to encode new text.
 4. **Evaluation**: Evaluating the performance of the BPE model.
 
-Gradio Application
-
+## Gradio Application
 The gradio application is hosted in https://huggingface.co/spaces/Shivdutta/S20-Tokenizer with 10 examples.
+![Tokenizer](toeknizer.png)
 
 ---
 
