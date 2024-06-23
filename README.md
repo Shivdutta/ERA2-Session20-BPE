@@ -17,7 +17,7 @@ The `BPE.ipynb` notebook includes the following sections:
 
 ## Gradio Application
 The gradio application is hosted in https://huggingface.co/spaces/Shivdutta/S20-Tokenizer with 10 examples.
-![Tokenizer](toeknizer.png)
+![Tokenizer](tokenizer.png)
 
 ---
 
