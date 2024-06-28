@@ -1,5 +1,4 @@
 # ERA2-Session20-BPE
-Here is a README file for the repository:
 
 ---
 
